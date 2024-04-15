@@ -711,6 +711,16 @@
 				"antialias"									"1"
 			}
 		}
+		"FontStoreOriginalPriceS"
+		{
+			"1"
+			{
+				"name"										"OCRAStd"
+				"tall"										"9"
+				"antialias"									"1"
+"dropshadow" "1"
+			}
+		}
 		"FontStorePriceSmall"
 		{
 			"1"
